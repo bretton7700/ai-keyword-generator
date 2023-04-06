@@ -6,7 +6,7 @@ const Footer = () => {
         <Box marginTop={50}>
             <Flex justifyContent='center' alignItems='center'>
                 <Image src={logo} marginRight={1}/>
-                <Text>Powered by Bret Tech</Text>
+                <Text>Powered by Brett Tech</Text>
 
             </Flex>
         </Box>

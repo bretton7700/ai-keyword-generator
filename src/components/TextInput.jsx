@@ -4,7 +4,9 @@ import { Textarea, Button, useToast } from '@chakra-ui/react'
 const TextInput = () => {
     const [text, setText] = useState('');
 
-    
+    const submitText = () =>{
+        
+    }
   return (
     <>
     <Textarea

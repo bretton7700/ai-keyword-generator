@@ -1,5 +1,5 @@
 import { Container, Box } from "@chakra-ui/react"
-
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 const App = () => {
   return (
@@ -7,6 +7,7 @@ const App = () => {
 
       <Container maxW='3xl' centerContent>
       <Header/>
+      <Footer/>
       </Container>
      
     </Box>
